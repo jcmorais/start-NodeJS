@@ -1,0 +1,16 @@
+{
+  "name": "ch04",
+  "version": "1.0.0",
+  "description": "chapter 04",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express3-handlebars": "^0.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "jcmorais",
+  "license": "ISC"
+}
